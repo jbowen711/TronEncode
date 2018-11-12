@@ -1,4 +1,4 @@
-from imageB64Lib0 import *
+from imageB64Lib import *
 
 dir = os.path.dirname(os.path.realpath(__file__))
 
